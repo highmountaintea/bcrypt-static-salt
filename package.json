@@ -1,0 +1,19 @@
+{
+  "name": "bcrypt-static-salt",
+  "version": "0.1.0",
+  "description": "provides a list of static salts to use for bcrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highmountaintea/bcrypt-static-salt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highmountaintea/bcrypt-static-salt/issues"
+  },
+  "homepage": "https://github.com/highmountaintea/bcrypt-static-salt#readme"
+}
